@@ -1,0 +1,2 @@
+# qrCodeGen
+exampleQR code generation
